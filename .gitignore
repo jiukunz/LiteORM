@@ -1,0 +1,6 @@
+.idea/
+.gradle/
+LiteORM.i*
+*.iml
+out/
+*build/
